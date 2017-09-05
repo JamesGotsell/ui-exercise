@@ -1,0 +1,22 @@
+{
+  "name": "ui-exercise",
+  "version": "1.0.0",
+  "description": "![Valtech logo](http://i.imgur.com/32Oipl4.png \"Valtech logo\")",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JamesGotsell/ui-exercise.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JamesGotsell/ui-exercise/issues"
+  },
+  "homepage": "https://github.com/JamesGotsell/ui-exercise#readme",
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}

@@ -1,0 +1,49 @@
+body {
+    background-color: lightcyan;
+    padding: 0px;
+    margin: 0px;
+}
+
+nav ul {
+    margin: 0;
+    padding: 5px;
+    list-style-type: none;
+    text-align: center;
+    background-color: #000;
+}
+
+nav ul li {
+    display: inline;
+}
+
+nav ul li a {
+    text-decoration: none;
+    padding: .2em 1em;
+    color: #fff;
+    background-color: #000;
+}
+
+nav ul li a:hover {
+    color: #000;
+    background-color: #fff;
+}
+
+.main-content {
+    width:70%;
+    height: 80%;
+    background-color: dodgerblue;
+    display: inline-block;
+}
+.side-bar {
+    width:30%;
+    height: 80%;
+    background-color: red;
+    float: right;
+    display: inline-block;
+}
+
+footer {
+    background-color: lightcyan;
+    height: 20%;
+    widows:100%;
+}
